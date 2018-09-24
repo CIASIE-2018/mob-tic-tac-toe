@@ -2,7 +2,8 @@
 
 ## Requirements
 
-- [docker](https://www.docker.com/get-started)
+- [docker] (https://www.docker.com/get-started) /!\ WINDOWS 10 PRO
+- [docker] (Any Windows Versions) (https://docs.docker.com/toolbox/toolbox_install_windows/)
 - [docker-compose](https://docs.docker.com/compose/install/)
 
 ## Install
